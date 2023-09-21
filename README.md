@@ -21,7 +21,7 @@
 
 - 5과목 정보시스템 구축 관리 1~24
 
-## 실기 붙었을가용
+## 실기
 
 > [정처기-실기-요약-정리/som2na.log](https://velog.io/@dlsdk2526/%EC%A0%95%EC%B2%98%EA%B8%B0-%EC%8B%A4%EA%B8%B0-%EC%9A%94%EC%95%BD-1-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%99%95%EC%9D%B8)
 >
